@@ -1,1 +1,17 @@
+.card {
+    width: 200px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+}
 
+.card2 {
+    display: flex;
+    flex-wrap: wrap;
+}
