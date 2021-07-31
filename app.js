@@ -12,24 +12,6 @@ function getData() {
 
         for (var i = 0; i < data.articles.length; i++) {
 
-++) {
-
-++) {
-
-++) {
-
-++) {
-
-++) {
-
-++) {
-
-++) {
-
-
-
-
-
             let card = `<div class="card mb-3" style="display: flex; " flex-wrap: wrap; width: 800px; max-width: 540px;"> </div>
 
           <img style="height: 30%; width:100%; border: 2px black solid class="card-img-top" src="${data.articles[i].urlToImage}" alt="Card image cap">
